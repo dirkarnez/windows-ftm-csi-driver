@@ -2,6 +2,10 @@ windows-ftm-csi-driver
 ======================
 <kbd>[**vscode-web-action**](https://github.com/dirkarnez/vscode-web-action/actions/workflows/vscode-web.yml)</kbd><br>
 
+```
+msbuild HelloWorldDriver.sln /t:Rebuild /p:Configuration=Release /p:Platform=x64 /p:TargetPlatformVersion=10.0.26100.0
+```
+
 ### Tutorials
 - [Windows-driver-samples/network/wlan at main · microsoft/Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples/tree/main/network/wlan)
 
