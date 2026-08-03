@@ -8,6 +8,7 @@ msbuild HelloWorldDriver.sln /t:Rebuild /p:Configuration=Release /p:Platform=x64
 
 ### Tutorials
 - [Windows-driver-samples/network/wlan at main · microsoft/Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples/tree/main/network/wlan)
+- [low-latency-audio/src/uac2-asio/USBAsio.sln at main · Litttlefish/low-latency-audio](https://github.com/Litttlefish/low-latency-audio/blob/main/src/uac2-asio/USBAsio.sln)
 
 ### Tools
 - https://download.sysinternals.com/files/DebugView.zip
